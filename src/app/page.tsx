@@ -4,7 +4,7 @@ export default function page() {
       <h1>Home page teste</h1>
 
       <div>
-        <p>
+        <p className="text-blue-500">
           paragrafo de teste
         </p>
       </div>
